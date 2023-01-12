@@ -1,0 +1,140 @@
+.ust
+{
+	display:flex;
+	background-color: #ffb11e;
+	height: 60px;
+	width:101%;
+	border-right: 10px solid #e88;
+	color: #9221d2;
+}
+.adres
+{
+	background-color: #9221d2;
+	height: 60px;
+	width:65%;
+	color: #ffffff;
+	;
+}
+.sagaHizalama
+{
+	text-align: right;
+	border-radius: px;
+	width: 15%;
+
+}
+.sagaHizalama1
+{
+	text-align: right;
+	border-radius: px;
+	width: 95%;
+
+}
+.mor
+{
+font-weight:bold;
+color: #9221d2;
+}
+.ortala
+{
+display:flex;
+justify-content: space-between;
+width: 90%;
+border-color:#9221d2;
+}
+.orta{
+	background-color: #eadff7;
+	color: #f48098C;
+	height: 450px;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.ortaYazi{
+font-size:h1;
+font-weight:bold;
+color: #9221d2;
+}	
+.ortaUstSol{
+	border: 2px solid #a1a1a1;
+	border-radius: 20px;
+	background-color: #ffffff;
+	color: #48098C;
+	width:20%;
+	height:290px;
+	margin-left:5%;
+	margin-right:10%;
+	margin-bottom:20px;
+	float: left;
+}
+.ortaUstOrta{
+	border: 2px solid #a1a1a1;
+	border-radius: 20px;
+	background-color: #ffffff;
+	color: #48098C;
+	width:20%;
+	height:140px;
+	margin-left:2%;
+	margin-right:10%;
+	margin-bottom:20px;
+	float: left;
+
+}
+.ortaAlt
+{
+	border: 2px solid #a1a1a1;
+	border-radius: 20px;
+	background-color: #ffffff;
+	color: #48098C;
+	width: 12%;
+	height:120px;
+	margin-left:5%;
+	margin-right:7%;
+	float: left;
+}
+.alt
+{
+	display:flex;
+	align-items: center;
+	background-color: #9221d2;
+	height: 300px;
+	width:101%;
+	border-right: 10px solid #e88;
+}
+.altbox{
+	border: 2px solid #a1a1a1;
+	border-radius: 20px;	
+	display:flex;
+	flex-direction:column;
+	align-items: center;
+	background-color: #ffffff;	
+	width:35%;
+	height:220px;
+	margin-left:2%;
+	margin-right:2%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

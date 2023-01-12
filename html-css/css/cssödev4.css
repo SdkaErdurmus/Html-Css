@@ -1,0 +1,52 @@
+.top
+{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(189,118,94,1) 0%, rgba(187,121,104,1) 27%, rgba(240,149,129,1) 45%, rgba(182,130,130,1) 100%, rgba(75,141,154,1) 100%);
+	align-items: center;
+	width:95%;
+	height:120px;
+	display:flex;
+	justify-content:space-between;
+	color: #79382a;
+	padding-right:5%;
+	padding-left:1%;
+}
+.satir1
+{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	height:100px;
+	color: #79382a;
+	font-family:Garamond;
+	font-size: 24px;
+}
+.satir2
+{	display:flex;
+	justify-content:center;
+	align-items: center;
+	padding-right:15%;
+	padding-left:10%;
+}
+.altBaslik
+{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	height:50px;
+	color: #79382a;
+	font-family:Garamond;
+	font-size: 18px;
+}
+.satir3
+{
+	padding-right:15%;
+	padding-left:10%;
+}
+.end
+{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(189,118,94,1) 0%, rgba(187,121,104,1) 27%, rgba(240,149,129,1) 45%, rgba(182,130,130,1) 100%, rgba(75,141,154,1) 100%);
+	width:102%;
+	height:100px;
+}
